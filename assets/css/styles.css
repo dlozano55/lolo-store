@@ -408,6 +408,10 @@ padding-top: 4rem;
 .button--small {
   padding: 1rem 1.5rem;
 }
+.button_catalog {
+  display: flex;
+  justify-content: center;
+}
 
 /*=============== FEATURED ===============*/
 .featured__container {
